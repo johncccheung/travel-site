@@ -1,6 +1,6 @@
 @import "normalize.css";
-@import "base/_mixins.scss";
 @import "base/_variables.scss";
+@import "base/_mixins.scss";
 @import "base/_global.scss";
 @import "modules/_large-hero.scss";
 @import "modules/_btn.scss";
@@ -13,3 +13,5 @@
 @import "modules/_feature-item.scss";
 @import "modules/_testimonial.scss";
 @import "modules/_site-footer.scss";
+@import "modules/_site-header.scss";
+@import "modules/_primary-nav";
